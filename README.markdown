@@ -20,7 +20,7 @@
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/r00tm1ndlab.git
+   git clone https://github.com/r00t4e/vuln.git
    cd r00tm1ndlab
    ```
 2. Install dependencies:
