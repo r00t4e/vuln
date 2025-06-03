@@ -27,11 +27,13 @@
    ```bash
    pip install flask
    ```
+#. cd vuln
+
 3. Run the server:
    ```bash
-   python r00tm1ndlab.py
+   python r00tm1ndlab_enc.py
    ```
-4. Open your browser and navigate to `http://localhost:5000`.
+5. Open your browser and navigate to `http://localhost:5000`.
 
 ## Usage
 - Visit `http://localhost:5000` to see the vulnerability categories and levels.
