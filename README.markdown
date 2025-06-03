@@ -21,7 +21,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/r00t4e/vuln.git
-   cd r00tm1ndlab
+   cd vuln
    ```
 2. Install dependencies:
    ```bash
